@@ -1,6 +1,6 @@
 function Seacrh() {
   return (
-    <div className="w-full px-3 pt-4 pb-3 bg-gray-300 flex items-center justify-center gap-3">
+    <div className="w-full px-6 pt-4 pb-3 bg-gray-200 flex items-center justify-center gap-3">
       <div className="w-2/5 flex flex-col justify-start">
         <p>Job Description</p>
         <input
